@@ -1,12 +1,12 @@
 # K-Half
 requirment:
 
-torch==11.3
-transformers
-numpy
-Scikiit-learn
-matplotlib
-tqdm
+torch==11.3;
+transformers;
+numpy;
+Scikiit-learn;
+matplotlib;
+tqdm;
 
 python label.py —dataset []
  
