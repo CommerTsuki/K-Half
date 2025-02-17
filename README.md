@@ -1,5 +1,5 @@
 # K-Half
-requirment:
+Requirment:
 
 torch==11.3<br>
 transformers<br>
