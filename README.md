@@ -6,7 +6,7 @@ transformers<br>
 numpy<br>
 Scikiit-learn<br>
 matplotlib<br>
-tqdm;
+tqdm
 
 python label.py —dataset []
  
