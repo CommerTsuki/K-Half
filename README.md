@@ -1,4 +1,13 @@
 # K-Half
+requirment:
+
+torch==11.3
+transformers
+numpy
+Scikiit-learn
+matplotlib
+tqdm
+
 python label.py —dataset []
  
 python out.py —dataset [] —train_file [train, test, valid]  —threshold [validity threshold]
